@@ -1,0 +1,1 @@
+apesar de estarem em uma mesma árvore de diretórios o git trata cada um dos repositório de maneira distinta
